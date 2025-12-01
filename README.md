@@ -48,10 +48,11 @@ To compare how quality-of-life indicators differ across different boroughs and n
 - Dashboard
 
 4. Dashboard Output
-A clean interface showing how each borough differs in crime, housing, and transit patterns.
+- A clean interface showing how each borough differs in crime, housing, and transit patterns.
 
 
 # Authors
 
 Team CityPulse — DS3 / UCSD
-@carstenpetey @nghi-nguyen23 @cindysgit
+
+Team members: Cartesen Petersen (@carstenpetey), Nghi Nguyen (@nghi-nguyen23), Cindy Chen (@cindysgit), Quan Pham
